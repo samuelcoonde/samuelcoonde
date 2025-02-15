@@ -3,5 +3,4 @@ Meu nome é Samuel e sou estudante de Análise e Desenvolvimento de Sistemas 3/4
 
 Conhecimento básico em   ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-
-Atualmente estudando ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  e SQL utilizando ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
+Atualmente estudando C#  e SQL utilizando PostgreSQL 🐘.
