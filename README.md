@@ -1,9 +1,4 @@
 <h1 align="center">Olá! Eu sou o Samu 👋</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?samuelconnde&style=flat-square" alt="Profile Views" />
-</p>
-
 ---
 
 ### 🚀 Sobre mim
