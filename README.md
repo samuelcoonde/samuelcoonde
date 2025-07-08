@@ -1,11 +1,11 @@
 <h1 align="center">Olá! Eu sou o Samu 👋</h1>
 
 <h2>🚀 Sobre mim</h2>
-
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Aprendendo: Java, HTML, CSS, JavaScript
-📚 Interesses: Desenvolvimento back-end e Banco de Dados  
-
+<p>
+  <li>🎓 Estudante de Análise e Desenvolvimento de Sistemas</li>
+  💻 Aprendendo: Java, HTML, CSS, JavaScript
+  📚 Interesses: Desenvolvimento back-end e Banco de Dados  
+</p>
 ---
 
 ### 🛠️ Tecnologias e ferramentas que já tive contato
