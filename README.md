@@ -1,15 +1,12 @@
 <h1 align="center">Olá! Eu sou o Samu 👋</h1>
-
 <h2>🚀 Sobre mim</h2>
 <p>
   <ul>🎓 Estudante de Análise e Desenvolvimento de Sistemas</ul>
   <ul>💻 Aprendendo: Atualmente estudando Java, HTML, CSS, JavaScript</ul>
   <ul>📚 Interesses: Desenvolvimento back-end e Banco de Dados </ul> 
 </p>
----
 
-### 🛠️ Tecnologias e ferramentas que já tive contato
-
+<h2>🛠️ Tecnologias e ferramentas que já tive contato</h2>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width=70px/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width=70px/>
