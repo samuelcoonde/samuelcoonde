@@ -1,7 +1,5 @@
 <h1 align="center">Olá! Eu sou o Samu 👋</h1>
 
----
-
 <h2>🚀 Sobre mim<\h2>
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
