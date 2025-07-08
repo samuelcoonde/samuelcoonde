@@ -16,7 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width=70px/>
 </p>
 
-<p>
+<p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=samuelcoonde&show_icons=true&theme=tokyonight&count_private=true"/>
 </p>
 
