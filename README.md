@@ -17,6 +17,6 @@
 </p>
 
 <p align="center">
-  ![samuelcoonde's Stats](https://github-readme-stats.vercel.app/api?username=samuelcoonde&theme=dark&show_icons=true&hide_border=false&count_private=true)
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=samuelcoonde&theme=dark&show_icons=true&hide_border=false&count_private=true"/>
 </p>
 
