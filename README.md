@@ -17,6 +17,6 @@
 </p>
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=samuelcoonde&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=samuelcoonde&show_icons=true&theme=Dark&count_private=true"/>
 </p>
 
