@@ -1,4 +1,4 @@
-<h1 align="center">Olá👋</h1>
+<h1 align="center">Bem-vindo(a) 👋</h1>
 <h2>🚀 Sobre mim</h2>
 <p>
   <ul>🎓 Estudante de Análise e Desenvolvimento de Sistemas</ul>
