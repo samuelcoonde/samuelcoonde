@@ -3,7 +3,7 @@
 <p>
   <ul>🎓 Estudante de Análise e Desenvolvimento de Sistemas</ul>
   <ul>💻 Aprendendo: Atualmente estudando Java, HTML, CSS e JavaScript</ul>
-  <ul>📚 Interesses: <strong>Desenvolvimento back-end</strong> e Banco de Dados</ul> 
+  <ul>📚 Interesses: <strong>Desenvolvimento Back-end</strong></ul> 
 </p>
 
 <h2>🛠️ Tecnologias que já tive contato</h2>
