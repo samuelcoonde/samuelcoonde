@@ -18,5 +18,7 @@
 
 <p align="center">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=samuelcoonde&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+    <br>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelcoonde&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
 </p>
 
