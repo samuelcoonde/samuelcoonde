@@ -2,7 +2,7 @@
 <h2>🚀 Sobre mim</h2>
 <p>
   <ul>🎓 Estudante de Análise e Desenvolvimento de Sistemas</ul>
-  <ul>💻 Aprendendo: Atualmente estudando Java (Web), HTML e CSS</ul>
+  <ul>💻 Aprendendo: Atualmente estudando Java (Web)</ul>
   <ul>📚 Interesses: <strong>Desenvolvimento Back-end</strong></ul> 
 </p>
 
