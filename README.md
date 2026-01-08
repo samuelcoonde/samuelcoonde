@@ -14,8 +14,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width=70px/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width=70px/>
 </p>
-
-<p align="center">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelcoonde&theme=blueberry&show_icons=true&hide_border=false&layout=compact"/>
-</p>
-
