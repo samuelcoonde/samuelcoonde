@@ -1,9 +1,9 @@
 <h1 align="center">Bem-vindo(a) 👋</h1>
 <h2>🚀 Sobre mim</h2>
 <p>
-  <ul>🎓 Estudante de Análise e Desenvolvimento de Sistemas</ul>
-  <ul>💻 Aprendendo: Atualmente estudando Java (Web)</ul>
-  <ul>📚 Interesses: <strong>Desenvolvimento Back-end</strong></ul> 
+  <ul>🎓 Formado em Análise e Desenvolvimento de Sistemas</ul>
+  <ul>💻 Aprendendo: Atualmente estudando C# (Web)</ul>
+  <ul>📚 Área de atuação: <strong>Desenvolvimento Full Stack</strong></ul> 
 </p>
 
 <h2>🛠️ Tecnologias que já tive contato</h2>
